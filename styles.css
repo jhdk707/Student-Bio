@@ -1,0 +1,43 @@
+#body{
+    background-color: transparent;
+
+}
+
+html {
+background: url(https://www.newenglandhistoricalsociety.com/wp-content/uploads/2015/08/Portuguese-immigrants-dory-fishermen-gossiping-in-the-sun-Provincetown-Massachusetts-1942.jpg) no-repeat center fixed;
+background-size: cover;
+}
+
+p.center {
+    text-align: left;
+    color: black;
+    width: 400px;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: goldenrod;
+}
+
+ol{
+    background-color: blanchedalmond;
+    color:black;
+    border-style: solid;
+    border-color: goldenrod;
+    width: 365px;
+    margin: auto;
+    float: left;
+}
+
+#h1{
+
+    color: goldenrod;
+    background-image: linear-gradient(to right, rgba(165,42,42), rgba(255,0,0,0));
+    text-shadow: -1px 0 black; 0 1px overscroll-behavior-block: 1px 0 overscroll-behavior-block: 0 -1px overscroll-behavior-block;
+    
+
+    
+}
+
+#img{
+    border-style:inset;
+    border: 3px groove blanchedalmond
+}
